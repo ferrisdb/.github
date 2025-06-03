@@ -1,7 +1,7 @@
 # FerrisDB
 
 <div align="center">
-  <img src="https://github.com/ferrisdb/ferrisdb/raw/main/docs/assets/images/ferrisdb_logo.svg" alt="FerrisDB Logo" width="150">
+  <img src="https://raw.githubusercontent.com/ferrisdb/ferrisdb/refs/heads/main/docs/src/assets/ferrisdb_logo.svg" alt="FerrisDB Logo" width="150">
   
   **Building the future of distributed databases in Rust**
 </div>
